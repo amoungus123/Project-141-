@@ -1,0 +1,29 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid lavender;
+}
+
+#start, #status {
+    font-size: 22px;
+}
+
+body {
+    background-size: cover;
+}
+
+h4 {
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+    position: fixed;
+    width: 100%;
+}
